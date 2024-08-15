@@ -1,0 +1,18 @@
+	**Welcome to Leo Resturant**
+
+Bill Number: 3872
+Customer Name: leo
+Customer Phone : 9083948748
+======================================= 
+Product		Quantity		Price
+=======================================  Cheese Burger		       1		 60 Rs
+ Cheese Burst Pizza		  2		 200 Rs
+ Corn-Capsicum Pizza		 8		 1600 Rs
+ Oreo-Shake		       8		 1440 Rs
+----------------------------------------
+ Burger Tax			6.0 Rs
+ Pizza Tax			324.0 Rs
+ Shakes Tax			216.0 Rs
+----------------------------------------
+ Total Bill 			   3846.0 Rs
+----------------------------------------

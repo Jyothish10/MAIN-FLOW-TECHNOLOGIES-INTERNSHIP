@@ -1,0 +1,18 @@
+	**Welcome to Leo Resturant**
+
+Bill Number: 6915
+Customer Name: Messi
+Customer Phone : 9963237421
+======================================= 
+Product		Quantity		Price
+=======================================  Veg Burger		   3		 150 Rs
+ Crispy Corn Burger		  5		 350 Rs
+ Tondori Pizza		       4		 600 Rs
+ Blue-Berry Shake		    4		 840 Rs
+----------------------------------------
+ Burger Tax			50.0 Rs
+ Pizza Tax			108.0 Rs
+ Shakes Tax			126.0 Rs
+----------------------------------------
+ Total Bill 			   2224.0 Rs
+----------------------------------------
